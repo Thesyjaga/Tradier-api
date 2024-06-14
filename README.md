@@ -5,6 +5,7 @@ Hello!
       If you use main.py it would change the code in tradier by accessing it and changing the places where it asks for ticker,quantity,side.
       MAKE SURE TO CHANGE THE CONFIG.PY "ACCESS TOKEN = '' "
       
+      
 
       
       
