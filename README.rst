@@ -10,7 +10,5 @@ Hello!
       
       MAKE SURE TO CHANGE THE CONFIG.PY "ACCESS TOKEN = '' "
       
-      
-
-      
+      I am working on withdrawl.py it will go through all account and withdrawl the same amount any help would be appericatted!
       
