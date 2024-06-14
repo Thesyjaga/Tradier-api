@@ -8,7 +8,7 @@ Hello!
       
       If you use main.py it would change the code in tradier by accessing it and changing the places where it asks for ticker,quantity,side.
       
-      MAKE SURE TO CHANGE THE CONFIG.PY "ACCESS TOKEN = '' "
+      MAKE SURE TO CHANGE THE CONFIG.PY "ACCESS TOKEN = '' ".  ALONG THAT MAKE SURE TO HAVE EVERYTHING IN SAME FOLDER FOR main.py TO WORK.
       
       I am working on withdrawl.py it will go through all account and withdrawl the same amount any help would be appericatted!
       
